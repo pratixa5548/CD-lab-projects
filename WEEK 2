@@ -1,0 +1,6 @@
+i. Write a program to separate terminals and non-terminals of the given
+
+grammar with its counting number.
+ii. Write a program to check whether the entered string belongs to a grammar
+as per Chomsky Hierarchy (Type-3/Type-2/Type-1/Type-0) or not. If so,
+then specify type of grammar.
